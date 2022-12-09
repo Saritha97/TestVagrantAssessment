@@ -1,8 +1,8 @@
-# TestVagrant Assessment
+## TestVagrant Assessment
 
 The framework is used to compare the details (Release Date and Country) of the movie, Pushpa: The rise from two different sources that is IMDB and Wikipedia.
 
-## Follow the below steps to run the code in your local:
+### Follow the below steps to run the code in your local:
 
 Deploy the code on local
 
@@ -12,4 +12,6 @@ Run the code
 
 The framework supports chrome browser
 
-The code is present under  
+The code is present in the file /src/test/java/Movies/Release_Date_Country.java
+
+pom.xml file contains all the dependencies used for this framework
